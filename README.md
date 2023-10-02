@@ -26,13 +26,6 @@
   * [ License ](#License)
   #
 
-  ##  Project Links
-   ##### Deployed Link on Heroku: https://warm-forest-12403.herokuapp.com/
-  ##### GitHub Repo link: https://github.com/imbingz/MERN-stack-ecommerce
-
-  ## Screenshots-Demo
-  <kbd>![screenshot-demo1](./client/public/demos/demo-1.gif)</kbd>
-  <kbd>![screenshot-demo2](./client/public/demos/demo-2.gif)</kbd>
   ## Project Objective
   * To build a responsive fully functional Ecommerce application that allows the sellers to save, retrieve and delete data like products, orders and buyers/users and the buyers to select items, save shopping carts and complete payment. 
   * Build an admin dashboard and sales report chart so that it is easier for the seller to manage their inventories and orders 
