@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-Commerce App 
  A Full-Stack Ecommerce application that uss React, Redux, MongoDB, Nodejs, ExpressJS and JWT Authentication with PayPal as well as Stripe payment system that allows sellers to upload and manage inventories and buyers to save goods to cart and purchase via Palpal.
 
@@ -79,3 +80,6 @@
   <p align='center'><i>
   This README was built with ❤️ by <a href="https://imbingz.github.io/Responsive-Website-Portfolio/"> BING Z</a>
 </i></p>
+=======
+# MERN-ecommerce-app
+>>>>>>> c151cbdebff1b89bb35bcc539c1e5c05727e86f6
